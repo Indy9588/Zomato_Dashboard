@@ -1,17 +1,21 @@
 # Zomato_Dashboard
 
+<img width="1327" height="743" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/ac2ededd-9aea-40a8-9b05-f10699c847f4" />
 
 
 Country-wise Analysis – Insights on restaurant distribution across countries.
 
+<img width="1331" height="745" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/1579c8bf-f1b9-43d2-9c3a-ebde26d2a272" />
 
 
 Overview – Summary of restaurant data, including table bookings, online deliveries, and cost analysis.
 
+<img width="1307" height="732" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/00eccc31-ff2a-4e60-9ad5-48ae1b31198b" />
 
 
 Rating and Votes Analysis – Trends in ratings, votes, and customer engagement by city and cuisine.
 
+<img width="1305" height="723" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/71c736f8-b8fa-434a-84e1-dabfcf8fa161" />
 
 
 📝 Project Overview:
